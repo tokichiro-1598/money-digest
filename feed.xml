@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>今朝の金融リテラシー・ダイジェスト</title>
+<link>https://tokichiro-1598.github.io/money-digest/index.html</link>
+<language>ja</language>
+<description>毎朝、為替・株・マクロ経済・基礎リテラシーの要点を初心者向けにお届けします。</description>
+<itunes:author>Money Morning Digest</itunes:author>
+<itunes:image href="https://tokichiro-1598.github.io/money-digest/cover.png"/>
+<itunes:explicit>false</itunes:explicit>
+<lastBuildDate>Tue, 23 Jun 2026 16:06:04 +0000</lastBuildDate>
+<item>
+<title>2026/06/24 金融ダイジェスト</title>
+<description>2026-06-24 の金融ダイジェスト。
+出典:
+- 日経平均株価（日本経済新聞）: https://www.nikkei.com/markets/worldidx/chart/nk225/
+- 政策金利1.00％への引き上げ（第一生命経済研究所）: https://www.dlri.co.jp/report/macro/623090.html
+- 日銀追加利上げと住宅ローン（モゲチェック）: https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY
+- ドル円相場（日本経済新聞）: https://www.nikkei.com/marketdata/quote/USDJPY/
+- FX・為替ニュース（ザイFX！）: https://zai.diamond.jp/category/zaifxnews
+- 新NISAの口座数の動向（東京報道新聞）: https://tokyonewsmedia.com/archives/16270
+- 2026年度NISAの改善ポイント（東洋経済）: https://toyokeizai.net/articles/-/924667</description>
+<enclosure url="https://tokichiro-1598.github.io/money-digest/episodes/2026-06-24.mp3" length="2386800" type="audio/mpeg"/>
+<guid isPermaLink="false">money-digest-2026-06-24</guid>
+<pubDate>Wed, 24 Jun 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>2026/06/23 金融ダイジェスト</title>
+<description>2026-06-23 の金融ダイジェスト。
+出典:
+- 日経平均7万円、史上最速の大台替わり AIを支える日本株に買い - 日本経済新聞: https://www.nikkei.com/article/DGXZQOUB03B3W0T00C26A6000000/
+- 日経平均株価が連日最高値、6万9404円 一時7万円乗せも - 日本経済新聞: https://www.nikkei.com/article/DGXZQOUB160KO0W6A610C2000000/
+- 日銀追加利上げで住宅ローンはいつ上がる？2026年の変動金利予想 - モゲチェック: https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY
+- 日銀は６月と12月に利上げへ - 第一生命経済研究所: https://www.dlri.co.jp/report/macro/598665.html
+- 為替：ドル円相場・円安、最新ニュースとレート - 日本経済新聞: https://www.nikkei.com/markets/currencies/
+- 2026年度「NISA」が大きく変貌、3つの改善ポイント - 東洋経済オンライン: https://toyokeizai.net/articles/-/924667
+- 【2026年版】NISAとは？初心者向けに仕組みをわかりやすく解説 - 池田泉州銀行: https://www.sihd-bk.jp/personal/column/asset-management/about-nisa-beginner-explanation/
+- 日経平均株価：指数情報・推移 - Yahoo!ファイナンス（最新値の確認用）: https://finance.yahoo.co.jp/quote/998407.O</description>
+<enclosure url="https://tokichiro-1598.github.io/money-digest/episodes/2026-06-23.mp3" length="3105648" type="audio/mpeg"/>
+<guid isPermaLink="false">money-digest-2026-06-23</guid>
+<pubDate>Tue, 23 Jun 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>2026/06/21 金融ダイジェスト</title>
+<description>2026-06-21 の金融ダイジェスト。
+出典:
+- サンプル出典A: https://www.boj.or.jp/
+- サンプル出典B: https://www.nikkei.com/</description>
+<enclosure url="https://tokichiro-1598.github.io/money-digest/episodes/2026-06-21.mp3" length="148608" type="audio/mpeg"/>
+<guid isPermaLink="false">money-digest-2026-06-21</guid>
+<pubDate>Sun, 21 Jun 2026 07:00:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
