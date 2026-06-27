@@ -8,7 +8,14 @@
 <itunes:author>Money Morning Digest</itunes:author>
 <itunes:image href="https://tokichiro-1598.github.io/money-digest/cover.png"/>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Fri, 26 Jun 2026 21:50:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 21:50:28 +0000</lastBuildDate>
+<item>
+<title>2026/06/28 金融ダイジェスト</title>
+<description>2026-06-28 の金融ダイジェスト。</description>
+<enclosure url="https://tokichiro-1598.github.io/money-digest/episodes/2026-06-28.mp3" length="17712" type="audio/mpeg"/>
+<guid isPermaLink="false">money-digest-2026-06-28</guid>
+<pubDate>Sun, 28 Jun 2026 07:00:00 +0000</pubDate>
+</item>
 <item>
 <title>2026/06/27 金融ダイジェスト</title>
 <description>2026-06-27 の金融ダイジェスト。</description>
