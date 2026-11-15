@@ -8,7 +8,27 @@
 <itunes:author>Money Morning Digest</itunes:author>
 <itunes:image href="https://tokichiro-1598.github.io/money-digest/cover.png"/>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 14 Nov 2026 21:52:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:23:18 +0000</lastBuildDate>
+<item>
+<title>2026/11/16 金融ダイジェスト</title>
+<description>2026-11-16 の金融ダイジェスト。
+出典:
+- Kabutan 週末コメント（2026/11/13）: https://kabutan.jp/news/marketnews/?b=n202611131309
+- 日経平均株価の推移（kabutore.biz）: https://kabutore.biz/shisu/nikkeiheikin.html
+- 外為どっとコム 来週の日経平均見通し（11/16〜20）: https://www.gaitame.com/media/entry/2026/11/13/163006
+- ダイヤモンド・ザイ 来週の日経平均予想レンジ: https://diamond.jp/zai/articles/-/1075498
+- 第一生命経済研究所 GDP予測: https://www.dlri.co.jp/files/macro/678117.pdf
+- 大和総研 GDP予測（11/10）: https://www.dir.co.jp/report/research/economics/japan/20261110_026184.pdf
+- 三菱UFJリサーチ&amp;コンサルティング GDP予測: https://www.murc.jp/wp-content/uploads/2026/10/gdp_est_2610_01.pdf
+- 日本銀行 為替相場（11/11）: https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261111.pdf
+- OANDA ドル/円見通し（11/5）: https://www.oanda.jp/lab-education/?p=132505
+- 熊本日日新聞 日銀10月会合の主な意見: https://kumanichi.com/articles/2056048
+- 熊本日日新聞 日銀利上げ1.25%に: https://kumanichi.com/articles/2037289
+- 大和総研 日銀の見通し: https://www.dir.co.jp/report/research/economics/japan/20261030_026168.html</description>
+<enclosure url="https://tokichiro-1598.github.io/money-digest/episodes/2026-11-16.mp3" length="3052080" type="audio/mpeg"/>
+<guid isPermaLink="false">money-digest-2026-11-16</guid>
+<pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+</item>
 <item>
 <title>2026/11/15 金融ダイジェスト</title>
 <description>2026-11-15 の金融ダイジェスト。
